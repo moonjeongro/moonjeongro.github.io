@@ -1,2 +1,9 @@
 theme: jekyll-theme-midnight
-url: "https://moonjeongro.github.io"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "문정로의 기록"
+title_separator          : "-"
+name                     : "Moonjeongro"
+description              : "학습하고 기록합니다."
+url                      : "https://moonjeongro.github.io"
